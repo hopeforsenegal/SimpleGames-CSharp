@@ -2,7 +2,7 @@ Three simple games in C# with Raylib (v4.2.0.1)
 
 # How to Build
 
-Read the _how_to_ in each subdirectory for instructions on how to build and run each game.
+Read the _how_to_ for instructions on how to build and run each game.
 
 ## Credit
 
