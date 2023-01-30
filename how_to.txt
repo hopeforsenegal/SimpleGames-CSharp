@@ -1,0 +1,1 @@
+You just can't. Microsoft requires that you basically use Visual Studio for building and running
